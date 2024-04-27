@@ -35,4 +35,23 @@ Tkinter: For creating the graphical user interface to make the application user-
  Conclusion:
 This project demonstrates the application of NLP techniques and machine learning to distinguish between medical and non-medical texts, showcasing the effectiveness of combining multiple NLP methods and machine learning for content-based classification tasks. The integration with a simple GUI ensures that the project is accessible to users without technical backgrounds, allowing for practical, real-world application.
 
+Clone the repository, navigate to the project directory, and run the script:
+```bash
+git clone https://github.com/9158764767/NLP_The-classification-of-texts-using-wikipedia/.git
+cd NLP_The-classification-of-texts-using-wikipedia
+pip install -r requirements.txt
+python guitest.py
+or
+python GUItest.ipynb
+
+
+## Acknowledgements
+This project was developed as part of the Advanced Text Classification Initiative at University of Verona.
+Sincere thanks to all the contributors and maintainers of the Wikipedia API, NLTK, scikit-learn, and other open-source projects used in this work.
+Special thanks to Professor Prof.Matteo Cristani  for their invaluable guidance and insights throughout the development of this project.
+
+## Contact
+For any queries regarding this project, please contact Abhishek Hirve at abhishek.hirve@studenti.univr.it
+
+
 
